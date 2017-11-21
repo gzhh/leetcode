@@ -1,4 +1,4 @@
-// Source : https://oj.leetcode.com/problems/two-sum/
+// Source : https://leetcode.com/problems/two-sum/
 // Author : Zhonghuan Gao
 // Date   : 2017-11-21
 
