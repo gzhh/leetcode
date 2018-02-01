@@ -7,5 +7,5 @@
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](algorithms/cpp/palindromeNumber/palindromeNumber.cpp) | Easy |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](algorithms/cpp/romanToInteger/romanToInteger.cpp) | Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](algorithms/cpp/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.cpp) | Easy |
-| 27 | [Roman to Integer](https://leetcode.com/problems/remove-element/) | [C++](algorithms/cpp/removeElement) | Easy |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](algorithms/cpp/removeElement/removeElement.cpp) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](algorithms/cpp/moveZeroes/moveZeroes.cpp) | Easy |
