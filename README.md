@@ -9,5 +9,4 @@
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](algorithms/cpp/removeDuplicatesFromSortedArrayII/removeDuplicatesFromSortedArrayII.cpp) | Medium |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](algorithms/cpp/reverseWordsInAString/reverseWordsInAString.cpp) | Medium |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](algorithms/cpp/moveZeroes/moveZeroes.cpp) | Easy |
-| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [C++](algorithms/cpp/nimGame/nimGame.cpp) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](algorithms/cpp/reverseString/reverseString.cpp) | Easy |
