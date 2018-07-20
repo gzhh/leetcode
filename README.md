@@ -11,4 +11,5 @@
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](algorithms/cpp/reverseWordsInAString/reverseWordsInAString.cpp) | Medium |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](algorithms/cpp/moveZeroes/moveZeroes.cpp) | Easy |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [C++](algorithms/cpp/nimGame/nimGame.cpp) | Easy |
+| 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [C++](algorithms/cpp/bulbSwitcher/bulbSwitcher.cpp) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](algorithms/cpp/reverseString/reverseString.cpp) | Easy |
