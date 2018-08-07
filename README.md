@@ -12,10 +12,8 @@
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](algorithms/cpp/reverseWordsInAString/reverseWordsInAString.cpp) | Medium |
 | 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | [Shell](shell/validPhoneNumbers/validPhoneNumbers.sh) | Easy |
 | 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | [Shell](shell/tenthLine/tenthLine.sh) | Easy |
-
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C++](algorithms/cpp/removeLinkedListElements/removeLinkedListElements.cpp) | Easy |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C++](algorithms/cpp/deleteNodeInALinkedList/deleteNodeInALinkedList.cpp) | Easy |
-
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](algorithms/cpp/validAnagram/validAnagram.cpp) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](algorithms/cpp/moveZeroes/moveZeroes.cpp) | Easy |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [C++](algorithms/cpp/nimGame/nimGame.cpp) | Easy |
