@@ -34,7 +34,6 @@ Do not return anything from your function.
 class Solution {
 public:
     void deleteNode(ListNode* node) {
-        node->val = node->next->val;
-        node = node->next;
+        *node = *node->next;
     }
 };
