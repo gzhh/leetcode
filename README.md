@@ -6,6 +6,7 @@
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](algorithms/cpp/reverseInteger/reverseInteger.cpp) | Easy |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](algorithms/cpp/palindromeNumber/palindromeNumber.cpp) | Easy |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](algorithms/cpp/romanToInteger/romanToInteger.cpp) | Easy |
+| 19 | [Roman to Integer](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](algorithms/cpp/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.cpp) | Medium |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](algorithms/cpp/mergeTwoSortedLists/mergeTwoSortedLists.cpp) | Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](algorithms/cpp/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.cpp) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](algorithms/cpp/removeElement/removeElement.cpp) | Easy |
