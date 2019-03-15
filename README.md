@@ -11,6 +11,7 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](algorithms/cpp/mergeTwoSortedLists/mergeTwoSortedLists.cpp) | Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](algorithms/cpp/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.cpp) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](algorithms/cpp/removeElement/removeElement.cpp) | Easy |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](algorithms/cpp/maximumSubarray/maximumSubarray.cpp) | Easy |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](algorithms/cpp/lengthOfLastWord/lengthOfLastWord.cpp) | Easy |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [C++](algorithms/cpp/sqrtx/sqrtx.cpp) | Easy |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](algorithms/cpp/removeDuplicatesFromSortedArrayII/removeDuplicatesFromSortedArrayII.cpp) | Medium |
