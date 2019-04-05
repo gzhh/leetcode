@@ -23,6 +23,7 @@
 | 121 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](algorithms/cpp/bestTimeToBuyAndSellStockII/bestTimeToBuyAndSellStockII.cpp) | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C++](algorithms/cpp/linkedListCycle/linkedListCycle.cpp) | Easy |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](algorithms/cpp/reverseWordsInAString/reverseWordsInAString.cpp) | Medium |
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](algorithms/cpp/twoSumII/twoSumII.cpp) | Easy |
 | 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | [Shell](shell/validPhoneNumbers/validPhoneNumbers.sh) | Easy |
 | 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | [Shell](shell/tenthLine/tenthLine.sh) | Easy |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C++](algorithms/cpp/removeLinkedListElements/removeLinkedListElements.cpp) | Easy |
