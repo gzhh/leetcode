@@ -1,6 +1,6 @@
 # 刷Leetcode笔记
-| # | Title | Solution | Difficulty |
-|--- | --- | ---| --- |
+| # | Title | Solution | Difficulty | Importantly |
+|--- | --- | ---| --- | --- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](algorithms/cpp/twoSum/twoSum.cpp) | Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](algorithms/cpp/addTwoNumbers/addTwoNumbers.cpp) | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](algorithms/cpp/reverseInteger/reverseInteger.cpp) | Easy |
@@ -37,4 +37,5 @@
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [C++](algorithms/cpp/assignCookies/assignCookies.cpp) | Easy |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](algorithms/cpp/thirdMaximumNumber/thirdMaximumNumber.cpp) | Easy |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [C++](algorithms/cpp/findAllNumbersDisappeare/findAllNumbersDisappeare.cpp) | Easy |
+| 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [C++](algorithms/cpp/reshapeTheMatrix/reshapeTheMatrix.cpp) | Easy | * |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](algorithms/cpp/middleOfTheLinkedList/middleOfTheLinkedList.cpp) | Easy |
