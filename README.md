@@ -45,3 +45,4 @@
 | 830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | [C++](algorithms/cpp/positionsOfLargeGroups/positionsOfLargeGroups.cpp) | Easy | * |
 | 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [C++](algorithms/cpp/maximizeDistanceToClosestPerson/maximizeDistanceToClosestPerson.cpp) | Easy | * |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](algorithms/cpp/middleOfTheLinkedList/middleOfTheLinkedList.cpp) | Easy |
+| 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [C++](algorithms/cpp/monotonicArray/monotonicArray.cpp) | Easy | * |
