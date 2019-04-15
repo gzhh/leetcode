@@ -16,6 +16,7 @@
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](algorithms/cpp/maximumSubarray/maximumSubarray.cpp) | Easy |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](algorithms/cpp/lengthOfLastWord/lengthOfLastWord.cpp) | Easy |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [C++](algorithms/cpp/sqrtx/sqrtx.cpp) | Easy |
+| 70 | [Climpbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](algorithms/cpp/climbingStairs/climbingStairs.cpp) | Easy | * |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](algorithms/cpp/removeDuplicatesFromSortedArrayII/removeDuplicatesFromSortedArrayII.cpp) | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C++](algorithms/cpp/removeDuplicatesFromSortedList/removeDuplicatesFromSortedList.cpp) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](algorithms/cpp/mergeSortedArray/mergeSortedArray.cpp) | Easy |
