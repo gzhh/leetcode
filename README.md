@@ -28,6 +28,7 @@
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](algorithms/cpp/reverseWordsInAString/reverseWordsInAString.cpp) | Medium |
 | 163 | [Single Number](https://leetcode.com/problems/single-number/) | [C++](algorithms/cpp/singleNumber/singleNumber.cpp) | Easy | * |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](algorithms/cpp/twoSumII/twoSumII.cpp) | Easy |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](algorithms/cpp/majorityElement/majorityElement.cpp) | Easy | * |
 | 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | [Shell](shell/validPhoneNumbers/validPhoneNumbers.sh) | Easy |
 | 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | [Shell](shell/tenthLine/tenthLine.sh) | Easy |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C++](algorithms/cpp/removeLinkedListElements/removeLinkedListElements.cpp) | Easy |
