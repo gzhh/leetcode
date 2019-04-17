@@ -31,6 +31,7 @@
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](algorithms/cpp/majorityElement/majorityElement.cpp) | Easy | * |
 | 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | [Shell](shell/validPhoneNumbers/validPhoneNumbers.sh) | Easy |
 | 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | [Shell](shell/tenthLine/tenthLine.sh) | Easy |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Shell](shell/houseRobber/houseRobber.sh) | Easy | * |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C++](algorithms/cpp/removeLinkedListElements/removeLinkedListElements.cpp) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](algorithms/cpp/reverseLinkedList/reverseLinkedList.cpp) | Easy |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C++](algorithms/cpp/deleteNodeInALinkedList/deleteNodeInALinkedList.cpp) | Easy |
