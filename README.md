@@ -26,6 +26,7 @@
 | 121 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](algorithms/cpp/bestTimeToBuyAndSellStockII/bestTimeToBuyAndSellStockII.cpp) | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C++](algorithms/cpp/linkedListCycle/linkedListCycle.cpp) | Easy |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](algorithms/cpp/reverseWordsInAString/reverseWordsInAString.cpp) | Medium |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](algorithms/cpp/intersectionOfTwoLinkedLists/intersectionOfTwoLinkedLists.cpp) | Easy | * |
 | 163 | [Single Number](https://leetcode.com/problems/single-number/) | [C++](algorithms/cpp/singleNumber/singleNumber.cpp) | Easy | * |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](algorithms/cpp/twoSumII/twoSumII.cpp) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](algorithms/cpp/majorityElement/majorityElement.cpp) | Easy | * |
