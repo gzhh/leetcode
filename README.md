@@ -10,6 +10,7 @@
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](algorithms/cpp/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.cpp) | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](algorithms/cpp/validParentheses/validParentheses.cpp) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](algorithms/cpp/mergeTwoSortedLists/mergeTwoSortedLists.cpp) | Easy |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](algorithms/cpp/swapNodesInPairs/swapNodesInPairs.cpp) | Medium | * |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](algorithms/cpp/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.cpp) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](algorithms/cpp/removeElement/removeElement.cpp) | Easy |
 | 28 | [Implement strStr](https://leetcode.com/problems/implement-strstr/) | [C++](algorithms/cpp/implementStrstr/implementStrstr.cpp) | Easy |
