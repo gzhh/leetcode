@@ -37,6 +37,7 @@
 | 202 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | [C/C++](algorithms/cpp/happyNumber/happyNumber.cpp) | Easy | * |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C++](algorithms/cpp/removeLinkedListElements/removeLinkedListElements.cpp) | Easy |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [C/C++](algorithms/cpp/countPrimes/countPrimes.cpp) | Easy | * |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [C++](algorithms/cpp/isomorphicStrings/isomorphicStrings.cpp) | Easy | * |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](algorithms/cpp/reverseLinkedList/reverseLinkedList.cpp) | Easy |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [C++](algorithms/cpp/palindromeLinkedList/palindromeLinkedList.cpp) | Easy | * |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C++](algorithms/cpp/deleteNodeInALinkedList/deleteNodeInALinkedList.cpp) | Easy |
