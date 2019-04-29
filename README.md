@@ -43,6 +43,7 @@
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C++](algorithms/cpp/deleteNodeInALinkedList/deleteNodeInALinkedList.cpp) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](algorithms/cpp/validAnagram/validAnagram.cpp) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](algorithms/cpp/moveZeroes/moveZeroes.cpp) | Easy |
+| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](algorithms/cpp/wordPattern/wordPattern.cpp) | Easy | * |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [C++](algorithms/cpp/nimGame/nimGame.cpp) | Easy |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [C++](algorithms/cpp/longestIncreasingSubsequence/longestIncreasingSubsequence.cpp) | Medium | * |
 | 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [C++](algorithms/cpp/bulbSwitcher/bulbSwitcher.cpp) | Medium |
