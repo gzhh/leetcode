@@ -49,6 +49,7 @@
 | 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [C++](algorithms/cpp/bulbSwitcher/bulbSwitcher.cpp) | Medium |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](algorithms/cpp/reverseString/reverseString.cpp) | Easy |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](algorithms/cpp/firstUniqueCharacterInAString/firstUniqueCharacterInAString.cpp) | Easy | * |
+| 398 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](algorithms/cpp/findTheDifference/findTheDifference.cpp) | Easy |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [C++](algorithms/cpp/assignCookies/assignCookies.cpp) | Easy |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](algorithms/cpp/thirdMaximumNumber/thirdMaximumNumber.cpp) | Easy |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [C++](algorithms/cpp/findAllNumbersDisappeare/findAllNumbersDisappeare.cpp) | Easy |
