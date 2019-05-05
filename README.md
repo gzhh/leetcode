@@ -26,7 +26,7 @@
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [C++](algorithms/cpp/pascalsTriangleII/pascalsTriangleII.cpp) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](algorithms/cpp/bestTimeToBuyAndSellStock/bestTimeToBuyAndSellStock.cpp) | Easy |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](algorithms/cpp/bestTimeToBuyAndSellStockII/bestTimeToBuyAndSellStockII.cpp) | Easy |
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palidrome/) | [C](algorithms/c/validPalindrome/validPalindrome.cpp) | Easy |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C](algorithms/c/validPalindrome/validPalindrome.c) | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C++](algorithms/cpp/linkedListCycle/linkedListCycle.cpp) | Easy |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](algorithms/cpp/reverseWordsInAString/reverseWordsInAString.cpp) | Medium |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](algorithms/cpp/intersectionOfTwoLinkedLists/intersectionOfTwoLinkedLists.cpp) | Easy | * |
