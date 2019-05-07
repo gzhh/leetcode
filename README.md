@@ -50,6 +50,7 @@
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [C++](algorithms/cpp/longestIncreasingSubsequence/longestIncreasingSubsequence.cpp) | Medium | * |
 | 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [C++](algorithms/cpp/bulbSwitcher/bulbSwitcher.cpp) | Medium |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](algorithms/cpp/reverseString/reverseString.cpp) | Easy |
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [C++](algorithms/cpp/ransomNote/ransomNote.cpp) | Easy |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](algorithms/cpp/firstUniqueCharacterInAString/firstUniqueCharacterInAString.cpp) | Easy | * |
 | 398 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](algorithms/cpp/findTheDifference/findTheDifference.cpp) | Easy |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [C++](algorithms/cpp/longestPalindrome/longestPalindrome.cpp) | Easy | * |
