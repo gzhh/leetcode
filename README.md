@@ -71,3 +71,4 @@
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [C++](algorithms/cpp/emonadeChange/emonadeChange.cpp) | Easy |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](algorithms/cpp/middleOfTheLinkedList/middleOfTheLinkedList.cpp) | Easy |
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [C++](algorithms/cpp/monotonicArray/monotonicArray.cpp) | Easy | * |
+| 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | [C++](algorithms/cpp/maximizeSumOfArrayAfterKNegations/maximizeSumOfArrayAfterKNegations.cpp) | Easy |
