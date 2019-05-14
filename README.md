@@ -23,7 +23,8 @@
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](algorithms/cpp/removeDuplicatesFromSortedArrayII/removeDuplicatesFromSortedArrayII.cpp) | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C++](algorithms/cpp/removeDuplicatesFromSortedList/removeDuplicatesFromSortedList.cpp) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](algorithms/cpp/mergeSortedArray/mergeSortedArray.cpp) | Easy |
-| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C++](algorithms/cpp/sameTree.cpp) | Easy | * |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C++](algorithms/cpp/sameTree/sameTree.cpp) | Easy | * |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](algorithms/cpp/maximumDepthOfBinaryTree/maximumDepthOfBinaryTree.cpp) | Easy | * |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [C++](algorithms/cpp/pascalsTriangle/pascalsTriangle.cpp) | Easy |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [C++](algorithms/cpp/pascalsTriangleII/pascalsTriangleII.cpp) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](algorithms/cpp/bestTimeToBuyAndSellStock/bestTimeToBuyAndSellStock.cpp) | Easy |
