@@ -32,6 +32,7 @@
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C](algorithms/c/validPalindrome/validPalindrome.c) | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C++](algorithms/cpp/linkedListCycle/linkedListCycle.cpp) | Easy |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](algorithms/cpp/reverseWordsInAString/reverseWordsInAString.cpp) | Medium |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [C++](algorithms/cpp/minStack/minStack.cpp) | Easy | * |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](algorithms/cpp/intersectionOfTwoLinkedLists/intersectionOfTwoLinkedLists.cpp) | Easy | * |
 | 163 | [Single Number](https://leetcode.com/problems/single-number/) | [C++](algorithms/cpp/singleNumber/singleNumber.cpp) | Easy | * |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](algorithms/cpp/twoSumII/twoSumII.cpp) | Easy |
