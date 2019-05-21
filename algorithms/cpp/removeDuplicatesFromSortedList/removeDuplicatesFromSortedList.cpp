@@ -21,6 +21,9 @@ Output: 1->2->3
 
 class Solution {
 public:
+    /**
+     * 解法一
+     */
     ListNode* deleteDuplicates(ListNode* head) {
         ListNode *cur = head;
         while (cur) {
@@ -30,5 +33,22 @@ public:
             cur = cur->next;
         }
         return head;
-    } 
+    }
+
+    /**
+     * 解法二：
+     * 移除给定有序链表的重复项，那么我们可以遍历这个链表，每个结点和其后面的结点比较，
+     * 如果结点值相同了，我们只要将前面结点的next指针跳过紧挨着的相同值的结点，指向后面一个结点。
+     */
+    ListNode* deleteDuplicates(ListNode* head) {
+        ListNode *cur = head;
+        while (cur && cur->next) {
+            if (cur->val == cur->next->val) {
+                cur->next = cur->next->next;
+            } else {
+                cur = cur->next;
+            }
+        }
+        return head;
+    }
 };
