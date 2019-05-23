@@ -26,6 +26,7 @@
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](algorithms/cpp/mergeSortedArray/mergeSortedArray.cpp) | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C++](algorithms/cpp/sameTree/sameTree.cpp) | Easy | * |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](algorithms/cpp/maximumDepthOfBinaryTree/maximumDepthOfBinaryTree.cpp) | Easy | * |
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [C++](algorithms/cpp/pathSum/pathSum.cpp.cpp) | Easy | * |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [C++](algorithms/cpp/pascalsTriangle/pascalsTriangle.cpp) | Easy |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [C++](algorithms/cpp/pascalsTriangleII/pascalsTriangleII.cpp) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](algorithms/cpp/bestTimeToBuyAndSellStock/bestTimeToBuyAndSellStock.cpp) | Easy |
