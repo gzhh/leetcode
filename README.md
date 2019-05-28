@@ -24,6 +24,7 @@
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [C++](algorithms/cpp/removeDuplicatesFromSortedListII/removeDuplicatesFromSortedListII.cpp) | Easy | * |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C++](algorithms/cpp/removeDuplicatesFromSortedList/removeDuplicatesFromSortedList.cpp) | Easy | * |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](algorithms/cpp/mergeSortedArray/mergeSortedArray.cpp) | Easy |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C++](algorithms/cpp/validateBinarySearchTree/validateBinarySearchTree.cpp) | Medium | * |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C++](algorithms/cpp/sameTree/sameTree.cpp) | Easy | * |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++](algorithms/cpp/symmetricTree/symmetricTree.cpp) | Easy | * |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](algorithms/cpp/maximumDepthOfBinaryTree/maximumDepthOfBinaryTree.cpp) | Easy | * |
