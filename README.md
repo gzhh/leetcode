@@ -32,8 +32,9 @@
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [C++](algorithms/cpp/convertSortedListToBinarySearchTree/convertSortedListToBinarySearchTree.cpp) | Medium | * |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [C++](algorithms/cpp/balancedBinaryTree/balancedBinaryTree.cpp) | Easy | * |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C++](algorithms/cpp/minimumDepthOfBinaryTree/minimumDepthOfBinaryTree.cpp) | Easy | * |
-| 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [C++](algorithms/cpp/pathSum/pathSum.cpp.cpp) | Easy | * |
-| 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [C++](algorithms/cpp/pathSumII/pathSumII.cpp.cpp) | Midium | * |
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [C++](algorithms/cpp/pathSum/pathSum.cpp) | Easy | * |
+| 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [C++](algorithms/cpp/pathSumII/pathSumII.cpp) | Midium | * |
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [C++](algorithms/cpp/flattenBinaryTreeToLinkedList/flattenBinaryTreeToLinkedList.cpp) | Midium | * |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [C++](algorithms/cpp/pascalsTriangle/pascalsTriangle.cpp) | Easy |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [C++](algorithms/cpp/pascalsTriangleII/pascalsTriangleII.cpp) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](algorithms/cpp/bestTimeToBuyAndSellStock/bestTimeToBuyAndSellStock.cpp) | Easy |
