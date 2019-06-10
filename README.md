@@ -17,6 +17,7 @@
 | 28 | [Implement strStr](https://leetcode.com/problems/implement-strstr/) | [C++](algorithms/cpp/implementStrstr/implementStrstr.cpp) | Easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](algorithms/cpp/maximumSubarray/maximumSubarray.cpp) | Easy |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](algorithms/cpp/lengthOfLastWord/lengthOfLastWord.cpp) | Easy |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [C++](algorithms/cpp/rotateList/rotateList.cpp) | Medium | * |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [C++](algorithms/cpp/addBinary/addBinary.cpp) | Easy |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [C++](algorithms/cpp/sqrtx/sqrtx.cpp) | Easy |
 | 70 | [Climpbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](algorithms/cpp/climbingStairs/climbingStairs.cpp) | Easy | * |
