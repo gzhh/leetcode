@@ -24,6 +24,7 @@
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](algorithms/cpp/removeDuplicatesFromSortedArrayII/removeDuplicatesFromSortedArrayII.cpp) | Medium |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [C++](algorithms/cpp/removeDuplicatesFromSortedListII/removeDuplicatesFromSortedListII.cpp) | Easy | * |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C++](algorithms/cpp/removeDuplicatesFromSortedList/removeDuplicatesFromSortedList.cpp) | Easy | * |
+| 86 | [Partition List](https://leetcode.com/problems/partision-list/) | [C++](algorithms/cpp/partisionList/partisionList.cpp) | Medium | * |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](algorithms/cpp/mergeSortedArray/mergeSortedArray.cpp) | Easy |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C++](algorithms/cpp/validateBinarySearchTree/validateBinarySearchTree.cpp) | Medium | * |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C++](algorithms/cpp/sameTree/sameTree.cpp) | Easy | * |
