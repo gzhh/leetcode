@@ -45,6 +45,8 @@
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C](algorithms/c/validPalindrome/validPalindrome.c) | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C++](algorithms/cpp/linkedListCycle/linkedListCycle.cpp) | Easy | * |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [C++](algorithms/cpp/linkedListCycleII/linkedListCycleII.cpp) | Medium | * |
+| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [C++](algorithms/cpp/reorderList/reorderList.cpp) | Medium | * |
+| 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [C++](algorithms/cpp/insertionSortList/insertionSortList.cpp) | Medium | * |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](algorithms/cpp/reverseWordsInAString/reverseWordsInAString.cpp) | Medium |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [C++](algorithms/cpp/minStack/minStack.cpp) | Easy | * |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](algorithms/cpp/intersectionOfTwoLinkedLists/intersectionOfTwoLinkedLists.cpp) | Easy | * |
