@@ -88,6 +88,7 @@
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [C++](algorithms/cpp/shortestUnsortedContinuousSubarray/shortestUnsortedContinuousSubarray.cpp) | Easy | * |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [C++](algorithms/cpp/maximumAverageSubarrayI/maximumAverageSubarrayI.cpp) | Easy |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [C++](algorithms/cpp/longestContinuousIncreasingSubsequence/longestContinuousIncreasingSubsequence.cpp) | Easy | * |
+| 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | [C++](algorithms/cpp/splitLinkedListInParts/splitLinkedListInParts.cpp) | Medium | * |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [C++](algorithms/cpp/minCostClimbingStairs/minCostClimbingStairs.cpp) | Easy | * |
 | 830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | [C++](algorithms/cpp/positionsOfLargeGroups/positionsOfLargeGroups.cpp) | Easy | * |
 | 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [C++](algorithms/cpp/maximizeDistanceToClosestPerson/maximizeDistanceToClosestPerson.cpp) | Easy | * |
