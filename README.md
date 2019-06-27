@@ -70,6 +70,7 @@
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [C++](algorithms/cpp/nimGame/nimGame.cpp) | Easy |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [C++](algorithms/cpp/longestIncreasingSubsequence/longestIncreasingSubsequence.cpp) | Medium | * |
 | 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [C++](algorithms/cpp/bulbSwitcher/bulbSwitcher.cpp) | Medium |
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](algorithms/cpp/oddEvenLinkedList/oddEvenLinkedList.cpp) | Medium | * |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](algorithms/cpp/reverseString/reverseString.cpp) | Easy |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [C++](algorithms/cpp/validPerfectSquare/validPerfectSquare.cpp) | Easy | * |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [C++](algorithms/cpp/ransomNote/ransomNote.cpp) | Easy |
