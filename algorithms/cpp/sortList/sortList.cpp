@@ -1,0 +1,66 @@
+// Source : https://leetcode.com/problems/sort-list/
+// Author : Zhonghuan Gao
+// Date   : 2019-07-23
+
+/**********************************************************************************
+**
+Sort a linked list in O(n log n) time using constant space complexity.
+
+Example 1:
+
+Input: 4->2->1->3
+Output: 1->2->3->4
+Example 2:
+
+Input: -1->5->3->4->0
+Output: -1->0->3->4->5
+**
+**********************************************************************************/
+
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode(int x) : val(x), next(NULL) {}
+ * };
+ */
+
+/**
+ * 链表排序
+ */
+class Solution {
+public:
+    /**
+     * 解法一：归并排序
+     */
+    ListNode* sortList(ListNode* head) {
+        if (!head || !head->next) return head;
+        ListNode *slow = head, *fast = head, *pre = head;
+        while (fast && fast->next) {
+            pre = slow;
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        pre->next = NULL;
+        return merge(sortList(head), sortList(slow));
+    }
+
+    ListNode* merge(ListNode* l1, ListNode* l2) {
+        ListNode *dummy = new ListNode(-1);
+        ListNode *cur = dummy;
+        while (l1 && l2) {
+            if (l1->val < l2->val) {
+                cur->next = l1;
+                l1 = l1->next;
+            } else {
+                cur->next = l2;
+                l2 = l2->next;
+            }
+            cur = cur->next;
+        }
+        if (l1) cur->next = l1;
+        if (l2) cur->next = l2;
+        return dummy->next;
+    }
+};
