@@ -43,6 +43,7 @@
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](algorithms/cpp/bestTimeToBuyAndSellStock/bestTimeToBuyAndSellStock.cpp) | Easy |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](algorithms/cpp/bestTimeToBuyAndSellStockII/bestTimeToBuyAndSellStockII.cpp) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C](algorithms/c/validPalindrome/validPalindrome.c) | Easy |
+| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](algorithms/cpp/copyListWithRandomPointer/copyListWithRandomPointer.cpp) | Medium |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C++](algorithms/cpp/linkedListCycle/linkedListCycle.cpp) | Easy | * |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [C++](algorithms/cpp/linkedListCycleII/linkedListCycleII.cpp) | Medium | * |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [C++](algorithms/cpp/reorderList/reorderList.cpp) | Medium | * |
