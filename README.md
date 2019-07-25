@@ -92,6 +92,7 @@
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [C++](algorithms/cpp/shortestUnsortedContinuousSubarray/shortestUnsortedContinuousSubarray.cpp) | Easy | * |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [C++](algorithms/cpp/maximumAverageSubarrayI/maximumAverageSubarrayI.cpp) | Easy |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [C++](algorithms/cpp/longestContinuousIncreasingSubsequence/longestContinuousIncreasingSubsequence.cpp) | Easy | * |
+| 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [C++](algorithms/cpp/designLinkedList/designLinkedList.cpp) | Easy | * |
 | 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | [C++](algorithms/cpp/splitLinkedListInParts/splitLinkedListInParts.cpp) | Medium | * |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [C++](algorithms/cpp/minCostClimbingStairs/minCostClimbingStairs.cpp) | Easy | * |
 | 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/) | [C++](algorithms/cpp/linkedListComponents/linkedListComponents.cpp) | Medium | * |
