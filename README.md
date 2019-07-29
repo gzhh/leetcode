@@ -13,6 +13,7 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](algorithms/cpp/mergeTwoSortedLists/mergeTwoSortedLists.cpp) | Easy |
 | 23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](algorithms/cpp/mergeKSortedLists/mergeKSortedLists.cpp) | Hard | * |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](algorithms/cpp/swapNodesInPairs/swapNodesInPairs.cpp) | Medium | * |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [C++](algorithms/cpp/reverseNodesInKGroup/reverseNodesInKGroup.cpp) | Hard | * |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](algorithms/cpp/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.cpp) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](algorithms/cpp/removeElement/removeElement.cpp) | Easy |
 | 28 | [Implement strStr](https://leetcode.com/problems/implement-strstr/) | [C++](algorithms/cpp/implementStrstr/implementStrstr.cpp) | Easy |
