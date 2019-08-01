@@ -17,6 +17,7 @@
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](algorithms/cpp/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.cpp) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](algorithms/cpp/removeElement/removeElement.cpp) | Easy |
 | 28 | [Implement strStr](https://leetcode.com/problems/implement-strstr/) | [C++](algorithms/cpp/implementStrstr/implementStrstr.cpp) | Easy |
+| 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [C++](algorithms/cpp/countAndSay/countAndSay.cpp) | Easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](algorithms/cpp/maximumSubarray/maximumSubarray.cpp) | Easy |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](algorithms/cpp/lengthOfLastWord/lengthOfLastWord.cpp) | Easy |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [C++](algorithms/cpp/rotateList/rotateList.cpp) | Medium | * |
