@@ -84,6 +84,7 @@
 | 398 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](algorithms/cpp/findTheDifference/findTheDifference.cpp) | Easy |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [C++](algorithms/cpp/longestPalindrome/longestPalindrome.cpp) | Easy | * |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](algorithms/cpp/thirdMaximumNumber/thirdMaximumNumber.cpp) | Easy |
+| 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [C++](algorithms/cpp/addStrings/addStrings.cpp) | Easy | * |
 | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [C++](algorithms/cpp/flattenAMultilevelDoublyLinkedList/flattenAMultilevelDoublyLinkedList.cpp) | Medium |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [C++](algorithms/cpp/findAllAnagramsInAString/findAllAnagramsInAString.cpp) | Easy | * |
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [C++](algorithms/cpp/addTwoNumbersII/addTwoNumbersII.cpp) | Medium | * |
