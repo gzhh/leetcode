@@ -88,6 +88,7 @@
 | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [C++](algorithms/cpp/flattenAMultilevelDoublyLinkedList/flattenAMultilevelDoublyLinkedList.cpp) | Medium |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [C++](algorithms/cpp/findAllAnagramsInAString/findAllAnagramsInAString.cpp) | Easy | * |
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [C++](algorithms/cpp/numberOfSegmentsInAString/numberOfSegmentsInAString.cpp) | Easy |
+| 443 | [String Compression](https://leetcode.com/problems/string-compression/) | [C++](algorithms/cpp/stringCompression/stringCompression.cpp) | Easy |
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [C++](algorithms/cpp/addTwoNumbersII/addTwoNumbersII.cpp) | Medium | * |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [C++](algorithms/cpp/findAllNumbersDisappeare/findAllNumbersDisappeare.cpp) | Easy |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [C++](algorithms/cpp/assignCookies/assignCookies.cpp) | Easy |
