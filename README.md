@@ -92,6 +92,7 @@
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [C++](algorithms/cpp/addTwoNumbersII/addTwoNumbersII.cpp) | Medium | * |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [C++](algorithms/cpp/findAllNumbersDisappeare/findAllNumbersDisappeare.cpp) | Easy |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [C++](algorithms/cpp/assignCookies/assignCookies.cpp) | Easy |
+| 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [C++](algorithms/cpp/repeatedSubstringPattern/repeatedSubstringPattern.cpp) | Easy | * |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [C++](algorithms/cpp/hammingDistance/hammingDistance.cpp) | Easy | * |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C++](algorithms/cpp/fibonacciNumber/fibonacciNumber.cpp) | Easy |
 | 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [C++](algorithms/cpp/maximumDepthOfN-aryTree/maximumDepthOfN-aryTree.cpp) | Easy | * |
