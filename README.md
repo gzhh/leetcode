@@ -104,6 +104,7 @@
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [C++](algorithms/cpp/reshapeTheMatrix/reshapeTheMatrix.cpp) | Easy | * |
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [C++](algorithms/cpp/shortestUnsortedContinuousSubarray/shortestUnsortedContinuousSubarray.cpp) | Easy | * |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [C++](algorithms/cpp/constructStringFromBinaryTree/constructStringFromBinaryTree.cpp) | Easy | * |
+| 606 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [C++](algorithms/cpp/robotReturnToOrigin/robotReturnToOrigin.cpp) | Easy |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [C++](algorithms/cpp/maximumAverageSubarrayI/maximumAverageSubarrayI.cpp) | Easy |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [C++](algorithms/cpp/longestContinuousIncreasingSubsequence/longestContinuousIncreasingSubsequence.cpp) | Easy | * |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [C++](algorithms/cpp/designLinkedList/designLinkedList.cpp) | Easy | * |

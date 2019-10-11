@@ -1,63 +1,42 @@
-// Source : https://leetcode.com/problems/construct-string-from-binary-tree/
+// Source : https://leetcode.com/problems/robot-return-to-origin/
 // Author : Zhonghuan Gao
 // Date   : 2019-10-11
 
 /********************************************************************************** 
 *
-You need to construct a string consists of parenthesis and integers from a binary tree with the preorder traversing way.
-The null node needs to be represented by empty parenthesis pair "()". And you need to omit all the empty parenthesis pairs that don't affect the one-to-one mapping relationship between the string and the original binary tree.
+There is a robot starting at position (0, 0), the origin, on a 2D plane. Given a sequence of its moves, judge if this robot ends up at (0, 0) after it completes its moves.
+The move sequence is represented by a string, and the character moves[i] represents its ith move. Valid moves are R (right), L (left), U (up), and D (down). If the robot returns to the origin after it finishes all of its moves, return true. Otherwise, return false.
+Note: The way that the robot is "facing" is irrelevant. "R" will always make the robot move to the right once, "L" will always make it move left, etc. Also, assume that the magnitude of the robot's movement is the same for each move.
 
 Example 1:
-Input: Binary tree: [1,2,3,4]
-       1
-     /   \
-    2     3
-   /    
-  4     
-Output: "1(2(4))(3)"
+Input: "UD"
+Output: true 
+Explanation: The robot moves up once, and then down once. All moves have the same magnitude, so it ended up at the origin where it started. Therefore, we return true.
 
-Explanation: Originallay it needs to be "1(2(4)())(3()())", 
-but you need to omit all the unnecessary empty parenthesis pairs. 
-And it will be "1(2(4))(3)".
 Example 2:
-Input: Binary tree: [1,2,3,null,4]
-       1
-     /   \
-    2     3
-     \  
-      4 
-
-Output: "1(2()(4))(3)"
-
-Explanation: Almost the same as the first example, 
-except we can't omit the first parenthesis pair to break the one-to-one mapping relationship between the input and the output.
+Input: "LL"
+Output: false
+Explanation: The robot moves left twice. It ends up two "moves" to the left of the origin. We return false because it is not at the origin at the end of its moves.
 *               
 ***********************************************************************************/
 
 /**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
- * };
- */
-/**
- * 题意：给出一个二叉树，生成对应的字符串
+ * 题意：在平面二维坐标系中给你一个初始点(0,0)，设每次这个点可以向上下左右移动方向，
+ * 且每次移动一个单位，判断一个点移动后是否能回到原点(0,0)
  */
 class Solution {
 public:
     /**
-     * 解法一：递归
-     * 需要注意的是当左子节点为空的时候需要用()填充，而当右子节点为空的时候则不需要。
+     * 解法一：
      */
-    string tree2str(TreeNode* t) {
-        if (!t) return "";
-        string res = to_string(t->val);
-        if (!t->left && !t->right) return res;
-        res += '(' + tree2str(t->left) + ')';
-        if (t->right) res += '(' + tree2str(t->right) + ')';
-        return res;
+    bool judgeCircle(string moves) {
+        int r = 0, u = 0;
+        for (int i = 0; i < moves.size(); i++) {
+            if (moves[i] == 'R') r++;
+            else if (moves[i] == 'L') r--;
+            else if (moves[i] == 'U') u++;
+            else if (moves[i] == 'D') u--;
+        }
+        return r == 0 && u == 0;
     }
 };
