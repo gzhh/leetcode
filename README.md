@@ -102,6 +102,7 @@
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [C++](algorithms/cpp/studentAttendanceRecordI/studentAttendanceRecordI.cpp) | Easy |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [C++](algorithms/cpp/reverseWordsInAStringIII/reverseWordsInAStringIII.cpp) | Easy | * |
 | 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [C++](algorithms/cpp/maximumDepthOfN-aryTree/maximumDepthOfN-aryTree.cpp) | Easy | * |
+| 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [C++](algorithms/cpp/arrayPartitionI/arrayPartitionI.cpp) | Easy |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [C++](algorithms/cpp/reshapeTheMatrix/reshapeTheMatrix.cpp) | Easy | * |
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [C++](algorithms/cpp/shortestUnsortedContinuousSubarray/shortestUnsortedContinuousSubarray.cpp) | Easy | * |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [C++](algorithms/cpp/constructStringFromBinaryTree/constructStringFromBinaryTree.cpp) | Easy | * |
