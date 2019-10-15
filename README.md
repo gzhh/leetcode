@@ -94,6 +94,7 @@
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [C++](algorithms/cpp/assignCookies/assignCookies.cpp) | Easy |
 | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [C++](algorithms/cpp/repeatedSubstringPattern/repeatedSubstringPattern.cpp) | Easy | * |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [C++](algorithms/cpp/hammingDistance/hammingDistance.cpp) | Easy | * |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [C++](algorithms/cpp/maxConsecutiveOnes/maxConsecutiveOnes.cpp) | Easy | * |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C++](algorithms/cpp/fibonacciNumber/fibonacciNumber.cpp) | Easy |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [C++](algorithms/cpp/detectCapital/detectCapital.cpp) | Easy |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [C++](algorithms/cpp/longestUncommonSubsequenceI/longestUncommonSubsequenceI.cpp) | Easy |
