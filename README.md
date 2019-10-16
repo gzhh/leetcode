@@ -58,6 +58,7 @@
 | 163 | [Single Number](https://leetcode.com/problems/single-number/) | [C++](algorithms/cpp/singleNumber/singleNumber.cpp) | Easy | * |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](algorithms/cpp/twoSumII/twoSumII.cpp) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](algorithms/cpp/majorityElement/majorityElement.cpp) | Easy | * |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [C++](algorithms/cpp/rotateArray/rotateArray.cpp) | Easy | * |
 | 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | [Shell](shell/validPhoneNumbers/validPhoneNumbers.sh) | Easy |
 | 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | [Shell](shell/tenthLine/tenthLine.sh) | Easy |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [C++](algorithms/cpp/houseRobber/houseRobber.cpp) | Easy | * |
