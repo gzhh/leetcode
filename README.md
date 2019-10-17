@@ -102,6 +102,7 @@
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C++](algorithms/cpp/fibonacciNumber/fibonacciNumber.cpp) | Easy |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [C++](algorithms/cpp/detectCapital/detectCapital.cpp) | Easy |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [C++](algorithms/cpp/longestUncommonSubsequenceI/longestUncommonSubsequenceI.cpp) | Easy |
+| 523 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [C++](algorithms/cpp/kDiffPairsInAnArray/kDiffPairsInAnArray.cpp) | Easy |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [C++](algorithms/cpp/reverseStringII/reverseStringII.cpp) | Easy |
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [C++](algorithms/cpp/studentAttendanceRecordI/studentAttendanceRecordI.cpp) | Easy |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [C++](algorithms/cpp/reverseWordsInAStringIII/reverseWordsInAStringIII.cpp) | Easy | * |
