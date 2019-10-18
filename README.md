@@ -114,6 +114,7 @@
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [C++](algorithms/cpp/constructStringFromBinaryTree/constructStringFromBinaryTree.cpp) | Easy | * |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [C++](algorithms/cpp/maximumAverageSubarrayI/maximumAverageSubarrayI.cpp) | Easy |
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [C++](algorithms/cpp/robotReturnToOrigin/robotReturnToOrigin.cpp) | Easy |
+| 665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [C++](algorithms/cpp/nonDecreasingArray/nonDecreasingArray.cpp) | Easy | * |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [C++](algorithms/cpp/longestContinuousIncreasingSubsequence/longestContinuousIncreasingSubsequence.cpp) | Easy | * |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [C++](algorithms/cpp/validpalindromeII/validPalindromeII.cpp) | Easy | * |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | [C++](algorithms/cpp/countBinarySubstrings/countBinarySubstrings.cpp) | Easy | * |
