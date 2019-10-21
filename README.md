@@ -127,6 +127,7 @@
 | 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | [C++](algorithms/cpp/splitLinkedListInParts/splitLinkedListInParts.cpp) | Medium | * |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [C++](algorithms/cpp/minCostClimbingStairs/minCostClimbingStairs.cpp) | Easy | * |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [C++](algorithms/cpp/largestNumberAtLeastTwiceOfOthers/largestNumberAtLeastTwiceOfOthers.cpp) | Easy |
+| 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [C++](algorithms/cpp/toeplitzMatrix/toeplitzMatrix.cpp) | Easy | * |
 | 788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/) | [C++](algorithms/cpp/rotatedDigits/rotatedDigits.cpp) | Easy |
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [C++](algorithms/cpp/uniqueMorseCodeWords/uniqueMorseCodeWords.cpp) | Easy |
 | 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/) | [C++](algorithms/cpp/linkedListComponents/linkedListComponents.cpp) | Medium | * |
