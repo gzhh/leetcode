@@ -123,6 +123,7 @@
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [C++](algorithms/cpp/designLinkedList/designLinkedList.cpp) | Easy | * |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [C++](algorithms/cpp/toLowerCase/toLowerCase.cpp) | Easy |
 | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [C++](algorithms/cpp/1bitAnd2bitCharacters/1bitAnd2bitCharacters.cpp) | Easy |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C++](algorithms/cpp/findPivotIndex/findPivotIndex.cpp) | Easy | * |
 | 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | [C++](algorithms/cpp/splitLinkedListInParts/splitLinkedListInParts.cpp) | Medium | * |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [C++](algorithms/cpp/minCostClimbingStairs/minCostClimbingStairs.cpp) | Easy | * |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [C++](algorithms/cpp/largestNumberAtLeastTwiceOfOthers/largestNumberAtLeastTwiceOfOthers.cpp) | Easy |
