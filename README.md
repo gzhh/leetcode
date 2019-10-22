@@ -132,6 +132,7 @@
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [C++](algorithms/cpp/uniqueMorseCodeWords/uniqueMorseCodeWords.cpp) | Easy |
 | 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/) | [C++](algorithms/cpp/linkedListComponents/linkedListComponents.cpp) | Medium | * |
 | 830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | [C++](algorithms/cpp/positionsOfLargeGroups/positionsOfLargeGroups.cpp) | Easy | * |
+| 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [C++](algorithms/cpp/flippingAnImage/flippingAnImage.cpp) | Easy |
 | 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [C++](algorithms/cpp/maximizeDistanceToClosestPerson/maximizeDistanceToClosestPerson.cpp) | Easy | * |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [C++](algorithms/cpp/emonadeChange/emonadeChange.cpp) | Easy |
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-tree/) | [C++](algorithms/cpp/leafSimilarTree/leafSimilarTree.cpp) | Easy | * |
