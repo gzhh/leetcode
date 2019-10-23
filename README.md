@@ -78,6 +78,7 @@
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](algorithms/cpp/wordPattern/wordPattern.cpp) | Easy | * |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [C++](algorithms/cpp/nimGame/nimGame.cpp) | Easy |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [C++](algorithms/cpp/longestIncreasingSubsequence/longestIncreasingSubsequence.cpp) | Medium | * |
+| 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [C++](algorithms/cpp/rangeSumQueryImmutable/rangeSumQueryImmutable.cpp) | Easy |
 | 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [C++](algorithms/cpp/bulbSwitcher/bulbSwitcher.cpp) | Medium |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](algorithms/cpp/oddEvenLinkedList/oddEvenLinkedList.cpp) | Medium | * |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](algorithms/cpp/reverseString/reverseString.cpp) | Easy |
