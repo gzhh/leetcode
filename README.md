@@ -77,6 +77,7 @@
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](algorithms/cpp/moveZeroes/moveZeroes.cpp) | Easy |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](algorithms/cpp/wordPattern/wordPattern.cpp) | Easy | * |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [C++](algorithms/cpp/nimGame/nimGame.cpp) | Easy |
+| 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](algorithms/cpp/bullsAndCows/bullsAndCows.cpp) | Easy |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [C++](algorithms/cpp/longestIncreasingSubsequence/longestIncreasingSubsequence.cpp) | Medium | * |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [C++](algorithms/cpp/rangeSumQueryImmutable/rangeSumQueryImmutable.cpp) | Easy |
 | 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [C++](algorithms/cpp/bulbSwitcher/bulbSwitcher.cpp) | Medium |
