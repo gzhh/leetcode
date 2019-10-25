@@ -87,6 +87,7 @@
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [C++](algorithms/cpp/validPerfectSquare/validPerfectSquare.cpp) | Easy | * |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [C++](algorithms/cpp/ransomNote/ransomNote.cpp) | Easy |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](algorithms/cpp/firstUniqueCharacterInAString/firstUniqueCharacterInAString.cpp) | Easy | * |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C++](algorithms/cpp/isSubsequence/isSubsequence.cpp) | Easy | * |
 | 398 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](algorithms/cpp/findTheDifference/findTheDifference.cpp) | Easy |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [C++](algorithms/cpp/longestPalindrome/longestPalindrome.cpp) | Easy | * |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](algorithms/cpp/thirdMaximumNumber/thirdMaximumNumber.cpp) | Easy |
