@@ -84,6 +84,7 @@
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](algorithms/cpp/oddEvenLinkedList/oddEvenLinkedList.cpp) | Medium | * |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](algorithms/cpp/reverseString/reverseString.cpp) | Easy |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](algorithms/cpp/reverseVowelsOfAString/reverseVowelsOfAString.cpp) | Easy |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](algorithms/cpp/intersectionOfTwoArrays/intersectionOfTwoArrays.cpp) | Easy |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [C++](algorithms/cpp/validPerfectSquare/validPerfectSquare.cpp) | Easy | * |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [C++](algorithms/cpp/ransomNote/ransomNote.cpp) | Easy |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](algorithms/cpp/firstUniqueCharacterInAString/firstUniqueCharacterInAString.cpp) | Easy | * |
