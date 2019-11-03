@@ -30,6 +30,7 @@
 | 86 | [Partition List](https://leetcode.com/problems/partision-list/) | [C++](algorithms/cpp/partisionList/partisionList.cpp) | Medium | * |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](algorithms/cpp/mergeSortedArray/mergeSortedArray.cpp) | Easy |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [C++](algorithms/cpp/reverseLinkedListII/reverseLinkedListII.cpp) | Medium | * |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-Ineorder-traversal/) | [C++](algorithms/cpp/binaryTreeIneorderTraversal/binaryTreeIneorderTraversal.cpp) | Medium | * |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C++](algorithms/cpp/validateBinarySearchTree/validateBinarySearchTree.cpp) | Medium | * |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C++](algorithms/cpp/sameTree/sameTree.cpp) | Easy | * |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++](algorithms/cpp/symmetricTree/symmetricTree.cpp) | Easy | * |
@@ -51,7 +52,7 @@
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C++](algorithms/cpp/linkedListCycle/linkedListCycle.cpp) | Easy | * |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [C++](algorithms/cpp/linkedListCycleII/linkedListCycleII.cpp) | Medium | * |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [C++](algorithms/cpp/reorderList/reorderList.cpp) | Medium | * |
-| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C++](algorithms/cpp/binaryTreePreorderTraversal/binaryTreePreorderTraversal/.cpp) | Medium | * |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C++](algorithms/cpp/binaryTreePreorderTraversal/binaryTreePreorderTraversal.cpp) | Medium | * |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [C++](algorithms/cpp/insertionSortList/insertionSortList.cpp) | Medium | * |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [C++](algorithms/cpp/sortList/sortList.cpp) | Medium | * |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](algorithms/cpp/reverseWordsInAString/reverseWordsInAString.cpp) | Medium |
