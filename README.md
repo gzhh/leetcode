@@ -77,6 +77,7 @@
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [C++](algorithms/cpp/containsDuplicateII/containsDuplicateII.cpp) | Easy | * |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C++](algorithms/cpp/invertBinaryTree/invertBinaryTree.cpp) | Easy | * |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [C++](algorithms/cpp/palindromeLinkedList/palindromeLinkedList.cpp) | Easy | * |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [C++](algorithms/cpp/lowestCommonAncestorOfABinarySearchTree/lowestCommonAncestorOfABinarySearchTree.cpp) | Easy | * |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C++](algorithms/cpp/deleteNodeInALinkedList/deleteNodeInALinkedList.cpp) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](algorithms/cpp/validAnagram/validAnagram.cpp) | Easy |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [C++](algorithms/cpp/BinaryTreePath/BinaryTreePath.cpp) | Easy | * |
