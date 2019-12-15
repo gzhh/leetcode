@@ -65,6 +65,7 @@
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](algorithms/cpp/twoSumII/twoSumII.cpp) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](algorithms/cpp/majorityElement/majorityElement.cpp) | Easy | * |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](algorithms/cpp/excelSheetColumnNumber/excelSheetColumnNumber.cpp) | Easy | * |
+| 171 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [C++](algorithms/cpp/factorialTrailingZeroes/factorialTrailingZeroes.cpp) | Easy | * |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [C++](algorithms/cpp/rotateArray/rotateArray.cpp) | Easy | * |
 | 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | [Shell](shell/validPhoneNumbers/validPhoneNumbers.sh) | Easy |
 | 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | [Shell](shell/tenthLine/tenthLine.sh) | Easy |
@@ -102,6 +103,7 @@
 | 398 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](algorithms/cpp/findTheDifference/findTheDifference.cpp) | Easy |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [C++](algorithms/cpp/longestPalindrome/longestPalindrome.cpp) | Easy | * |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](algorithms/cpp/thirdMaximumNumber/thirdMaximumNumber.cpp) | Easy |
+| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C++](algorithms/cpp/fizzBuzz/fizzBuzz.cpp) | Easy |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [C++](algorithms/cpp/addStrings/addStrings.cpp) | Easy | * |
 | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [C++](algorithms/cpp/flattenAMultilevelDoublyLinkedList/flattenAMultilevelDoublyLinkedList.cpp) | Medium |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [C++](algorithms/cpp/findAllAnagramsInAString/findAllAnagramsInAString.cpp) | Easy | * |
