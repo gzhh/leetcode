@@ -67,6 +67,8 @@
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](algorithms/cpp/excelSheetColumnNumber/excelSheetColumnNumber.cpp) | Easy | * |
 | 171 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [C++](algorithms/cpp/factorialTrailingZeroes/factorialTrailingZeroes.cpp) | Easy | * |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [C++](algorithms/cpp/rotateArray/rotateArray.cpp) | Easy | * |
+| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [C++](algorithms/cpp/reverseBits/reverseBits.cpp) | Easy | * |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](algorithms/cpp/numberOf1Bits/numberOf1Bits.cpp) | Easy |
 | 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | [Shell](shell/validPhoneNumbers/validPhoneNumbers.sh) | Easy |
 | 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | [Shell](shell/tenthLine/tenthLine.sh) | Easy |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [C++](algorithms/cpp/houseRobber/houseRobber.cpp) | Easy | * |
