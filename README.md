@@ -1,7 +1,7 @@
 # 刷Leetcode笔记
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](algorithms/cpp/twoSum/twoSum.cpp) | Easy |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](algorithms/cpp/twoSum/twoSum.cpp) [Go](algorithms/go/0001.twoSum/twoSum.go) | Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](algorithms/cpp/addTwoNumbers/addTwoNumbers.cpp) | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](algorithms/cpp/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.cpp) | Medium | * |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](algorithms/cpp/longestPalindromicSubstring/longestPalindromicSubstring.cpp) | Medium | * |
